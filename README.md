@@ -38,8 +38,13 @@ All devices on your network use the Pi as their DNS server. Pi-hole blocks bad d
 🚧 Email alerts
 
 ## Screenshots
+### Pi-Hole
+<img width="2096" height="1098" alt="Screenshot From 2026-03-10 15-37-00" src="https://github.com/user-attachments/assets/d06b2605-a97a-4ab1-aa60-4f2d54395640" />
 
-[Coming soon]
+### Grafana
+<img width="2548" height="1181" alt="Screenshot From 2026-03-10 15-39-12" src="https://github.com/user-attachments/assets/f20b5c64-75a2-4301-907a-e467fa8b2455" />
+
+
 
 ## Author
 
