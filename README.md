@@ -13,7 +13,8 @@ A Raspberry Pi-powered network security appliance that provides DNS-based ad blo
 - **Mobile Responsive** - Works on phones, tablets, and desktops
 
 ## 📊 System Architecture
-/home/batman/homeguard/Architecture.png
+<img width="1407" height="688" alt="Architecture" src="https://github.com/user-attachments/assets/92df1cfc-4116-4aea-a216-7dcc09ff2a17" />
+
 **All devices connecting to HomeGuard WiFi are:**
 - Protected by DNS filtering (blocks ads, malware, trackers)
 - Protected by network firewall (blocks unauthorized access)
